@@ -1,0 +1,11 @@
+D:\Учебный курс_Инженер-программист\6 Разработка Windows-приложений на C#\Itmo.Labs\Itmo.CSDesktopApp\Itmo.CSDesktopApp\Itmo.CSDesktopApp.WinFormsLab_1-3\bin\Debug\Itmo.CSDesktopApp.WinFormsLab_1-3.exe.config
+D:\Учебный курс_Инженер-программист\6 Разработка Windows-приложений на C#\Itmo.Labs\Itmo.CSDesktopApp\Itmo.CSDesktopApp\Itmo.CSDesktopApp.WinFormsLab_1-3\bin\Debug\Itmo.CSDesktopApp.WinFormsLab_1-3.exe
+D:\Учебный курс_Инженер-программист\6 Разработка Windows-приложений на C#\Itmo.Labs\Itmo.CSDesktopApp\Itmo.CSDesktopApp\Itmo.CSDesktopApp.WinFormsLab_1-3\bin\Debug\Itmo.CSDesktopApp.WinFormsLab_1-3.pdb
+D:\Учебный курс_Инженер-программист\6 Разработка Windows-приложений на C#\Itmo.Labs\Itmo.CSDesktopApp\Itmo.CSDesktopApp\Itmo.CSDesktopApp.WinFormsLab_1-3\obj\Debug\Itmo.CSDesktopApp.WinFormsLab_1-3.csproj.AssemblyReference.cache
+D:\Учебный курс_Инженер-программист\6 Разработка Windows-приложений на C#\Itmo.Labs\Itmo.CSDesktopApp\Itmo.CSDesktopApp\Itmo.CSDesktopApp.WinFormsLab_1-3\obj\Debug\Itmo.CSDesktopApp.WinFormsLab_1_3.Form1.resources
+D:\Учебный курс_Инженер-программист\6 Разработка Windows-приложений на C#\Itmo.Labs\Itmo.CSDesktopApp\Itmo.CSDesktopApp\Itmo.CSDesktopApp.WinFormsLab_1-3\obj\Debug\Itmo.CSDesktopApp.WinFormsLab_1_3.Properties.Resources.resources
+D:\Учебный курс_Инженер-программист\6 Разработка Windows-приложений на C#\Itmo.Labs\Itmo.CSDesktopApp\Itmo.CSDesktopApp\Itmo.CSDesktopApp.WinFormsLab_1-3\obj\Debug\Itmo.CSDesktopApp.WinFormsLab_1-3.csproj.GenerateResource.cache
+D:\Учебный курс_Инженер-программист\6 Разработка Windows-приложений на C#\Itmo.Labs\Itmo.CSDesktopApp\Itmo.CSDesktopApp\Itmo.CSDesktopApp.WinFormsLab_1-3\obj\Debug\Itmo.CSDesktopApp.WinFormsLab_1-3.csproj.CoreCompileInputs.cache
+D:\Учебный курс_Инженер-программист\6 Разработка Windows-приложений на C#\Itmo.Labs\Itmo.CSDesktopApp\Itmo.CSDesktopApp\Itmo.CSDesktopApp.WinFormsLab_1-3\obj\Debug\Itmo.CSDesktopApp.WinFormsLab_1-3.exe
+D:\Учебный курс_Инженер-программист\6 Разработка Windows-приложений на C#\Itmo.Labs\Itmo.CSDesktopApp\Itmo.CSDesktopApp\Itmo.CSDesktopApp.WinFormsLab_1-3\obj\Debug\Itmo.CSDesktopApp.WinFormsLab_1-3.pdb
+D:\Учебный курс_Инженер-программист\6 Разработка Windows-приложений на C#\Itmo.Labs\Itmo.CSDesktopApp\Itmo.CSDesktopApp\Itmo.CSDesktopApp.WinFormsLab_1-3\obj\Debug\Itmo.CSDesktopApp.WinFormsLab_1_3.nForm.resources
