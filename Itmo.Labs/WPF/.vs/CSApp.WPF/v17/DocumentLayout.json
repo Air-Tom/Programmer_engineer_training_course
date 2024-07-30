@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Air_Tom\\Documents\\GitHub\\Programmer_engineer_training_course\\Itmo.Labs\\WinForms\\Lab2\\Itmo.CSDesktopApp.WinFormsLab_2_WinQuestion\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\WPF\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
-      "VerticalTabListWidth": 256,
+      "Orientation": 0,
+      "VerticalTabListWidth": 268,
       "DocumentGroups": [
         {
-          "DockedHeight": 232,
+          "DockedWidth": 41,
           "SelectedChildIndex": -1,
           "Children": [
             {

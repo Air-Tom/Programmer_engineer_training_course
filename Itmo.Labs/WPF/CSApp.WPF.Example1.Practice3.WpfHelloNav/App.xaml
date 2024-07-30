@@ -1,0 +1,9 @@
+﻿<Application x:Class="CSApp.WPF.Example1.Practice3.WpfHelloNav.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CSApp.WPF.Example1.Practice3.WpfHelloNav"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
