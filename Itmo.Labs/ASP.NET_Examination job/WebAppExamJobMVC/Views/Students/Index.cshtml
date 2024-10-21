@@ -1,0 +1,76 @@
+﻿@model IEnumerable<WebAppExamJobMVC.Models.Student>
+
+@{
+    ViewData["Title"] = "Студенты";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Студенты</h2>
+
+<p>
+    <a asp-action="Create" style="margin-right: 10px;">Создать нового студента</a>
+    <a asp-controller="Students" asp-action="TotalScore" style="margin-right: 10px;">Сумма баллов</a>
+    <a asp-controller="Students" asp-action="TopStudents" style="margin-right: 10px;">Пять лучших студентов</a>
+    <a asp-controller="Students" asp-action="BottomStudents" style="margin-right: 10px;">Пять худших студентов</a>
+    <a asp-controller="Students" asp-action="ExportToFile" style="margin-right: 10px;">Экспорт в текстовый файл</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Group)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Score)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Discipline)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Group)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Score)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Discipline.Name)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.StudentId">Изменить</a> |
+                    <a asp-action="Details" asp-route-id="@item.StudentId">Подробнее</a> |
+                    <a asp-action="Delete" asp-route-id="@item.StudentId">Удалить</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

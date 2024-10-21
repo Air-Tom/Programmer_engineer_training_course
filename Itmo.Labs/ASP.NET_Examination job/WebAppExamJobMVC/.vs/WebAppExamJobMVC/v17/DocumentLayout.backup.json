@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|c:\\users\\user\\source\\repos\\webappexamjobmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|c:\\users\\user\\source\\repos\\webappexamjobmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|c:\\users\\user\\source\\repos\\webappexamjobmvc\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|c:\\users\\user\\source\\repos\\webappexamjobmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|c:\\users\\user\\source\\repos\\webappexamjobmvc\\views\\disciplines\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|solutionrelative:views\\disciplines\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|c:\\users\\user\\source\\repos\\webappexamjobmvc\\views\\disciplines\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|solutionrelative:views\\disciplines\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|c:\\users\\user\\source\\repos\\webappexamjobmvc\\views\\disciplines\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|solutionrelative:views\\disciplines\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|c:\\users\\user\\source\\repos\\webappexamjobmvc\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|solutionrelative:views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|c:\\users\\user\\source\\repos\\webappexamjobmvc\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|solutionrelative:views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|c:\\users\\user\\source\\repos\\webappexamjobmvc\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|solutionrelative:views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|c:\\users\\user\\source\\repos\\webappexamjobmvc\\models\\studentcontext,.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|solutionrelative:models\\studentcontext,.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|c:\\users\\user\\source\\repos\\webappexamjobmvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|c:\\users\\user\\source\\repos\\webappexamjobmvc\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|solutionrelative:models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|c:\\users\\user\\source\\repos\\webappexamjobmvc\\models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|solutionrelative:models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|c:\\users\\user\\source\\repos\\webappexamjobmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|c:\\users\\user\\source\\repos\\webappexamjobmvc\\controllers\\disciplinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19311E14-D7AA-45E9-A9CA-D144A49FE3D6}|WebAppExamJobMVC.csproj|solutionrelative:controllers\\disciplinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 427,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T18:07:33.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:43:09.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T22:34:07.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Views\\Disciplines\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Disciplines\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Views\\Disciplines\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Disciplines\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T22:32:02.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Views\\Disciplines\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Disciplines\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Views\\Disciplines\\Details.cshtml",
+              "RelativeToolTip": "Views\\Disciplines\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T22:31:59.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Views\\Disciplines\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Disciplines\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Views\\Disciplines\\Create.cshtml",
+              "RelativeToolTip": "Views\\Disciplines\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T22:31:51.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T22:31:13.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "Views\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T22:30:53.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "Views\\Students\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T22:30:37.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentContext,.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Models\\StudentContext,.cs",
+              "RelativeDocumentMoniker": "Models\\StudentContext,.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Models\\StudentContext,.cs",
+              "RelativeToolTip": "Models\\StudentContext,.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:29:16.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:29:15.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Models\\SeedData.cs",
+              "RelativeToolTip": "Models\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:29:14.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Discipline.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Models\\Discipline.cs",
+              "RelativeDocumentMoniker": "Models\\Discipline.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Models\\Discipline.cs",
+              "RelativeToolTip": "Models\\Discipline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:29:13.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAIwMsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:29:08.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:29:08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DisciplinesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Controllers\\DisciplinesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DisciplinesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\WebAppExamJobMVC\\Controllers\\DisciplinesController.cs",
+              "RelativeToolTip": "Controllers\\DisciplinesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T22:29:07.241Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Буркин Артём 124/03 +7-921-561-49-54 Fort42184@bk.ru (ASP.NET): 5
+Буркин Артём 124/03 +7-921-561-49-54 Fort42184@bk.ru (ADO.NET): 3
+Спалин Иофис 120/07 +7-920-354-10-16 Spalin@mail.ru (ASP.NET): 2
+Спалин Иофис 120/07 +7-920-354-10-16 Spalin@mail.ru (PostgreSQL): 4
+Самсон Лев 118/02 +7-981-568-18-28 Lev@gmail.ru (ASP.NET): 1
+Антон Черкай 40 градусов +7 911 973-61-10 antoshka_c@mail.ru (ASP.NET): 1
+refhser ersh esrh 2352354 gredger (ASP.NET): 4

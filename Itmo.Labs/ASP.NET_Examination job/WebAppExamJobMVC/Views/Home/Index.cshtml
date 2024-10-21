@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">"Экзаменационная работа по ASP.NET"</h1>
+    <p>Работу выполнил <a href="https://t.me/Code812">Буркин А.В.</a>.</p>
+</div>
+
+<div class="row">
+    <center>
+        <div class="col-md-12">
+            <h2>Список студентов</h2>          
+            <table class="table-bordered table-hover">
+                <tr>
+                    <td><p>Имя</p></td>
+                    <td><p>Фамилия</p></td>
+                    <td><p>Группа</p></td>
+                    <td><p>Телефон</p></td>
+                    <td><p>Электронная почта</p></td>
+                    <td><p>Оценка</p></td>
+                    <td><p>Учебная дисциплина</p></td>
+                </tr>
+                @foreach (var c in ViewBag.Students)
+                {
+                    <tr>
+                        <td><p>@c.FirstName</p></td>
+                        <td><p>@c.LastName</p></td>
+                        <td><p>@c.Group</p></td>
+                        <td><p>@c.Phone</p></td>
+                        <td><p>@c.Email</p></td>
+                        <td><p>@c.Score</p></td>
+                        <td><p>@c.Discipline.Name</p></td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </center>
+    <a asp-controller="Students" asp-action="Create" style="margin-top: 10px;">Добавить студента &raquo;</a>
+</div>
