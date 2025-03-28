@@ -1,0 +1,19 @@
+Упр. 1.2
+
+document.addEventListener('DOMContentLoaded', function () {
+    const table = document.createElement('table'); // Создаем таблицу
+    const tableBody = document.createElement('tbody'); // Создаем элемент tbody для таблицы
+    table.appendChild(tableBody); // Добавляем tbody в таблицу
+
+    for (let i = 1; i <= 10; i++) {
+        const row = document.createElement('tr'); // Создаем строку
+        for (let j = 1; j <= 10; j++) {
+            const cell = document.createElement('td'); // Создаем ячейку
+            cell.textContent = i * j; // Устанавливаем текст ячейки
+            row.appendChild(cell); // Добавляем ячейку в строку
+        }
+        tableBody.appendChild(row); // Добавляем строку в тело таблицы
+    }
+
+    document.body.appendChild(table); // Добавляем таблицу в body
+});
