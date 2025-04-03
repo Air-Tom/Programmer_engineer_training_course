@@ -23,7 +23,7 @@
         <section>
             <h3>Немного графики от JS с помощью Canvas API</h3>
             <p>Демонстрируем лучшие возможности Web-разработки для наших клиентов!</p>
-            <canvas id="myCanvas" width="400" height="200" style="border:1px solid #000000;"></canvas>
+            <canvas id="myCanvas" width="300" height="150" style="border:1px solid #000000;"></canvas>
         </section>
     </main>
     <footer>
@@ -43,13 +43,13 @@
 		
 		// Стрелка
         ctx.beginPath();
-        ctx.moveTo(240, 70); // Начало стрелки
-        ctx.lineTo(180, 70); // Конец стрелки
-        ctx.lineTo(190, 65); // Правая часть стрелки
+        ctx.moveTo(240, 70);
+        ctx.lineTo(180, 70);
+        ctx.lineTo(190, 65);
         ctx.moveTo(180, 70);
-        ctx.lineTo(190, 75); // Левая часть стрелки
-        ctx.strokeStyle = "#DC0909"; // 
-        ctx.lineWidth = 2; // Толщина стрелки
+        ctx.lineTo(190, 75);
+        ctx.strokeStyle = "#DC0909";
+        ctx.lineWidth = 2;
         ctx.stroke();
 		
         // Обработчик события на canvas
