@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Основная страница</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Добро пожаловать на зачётный пятистраничный сайт!</h1>
+        <nav>
+            <ul>
+                <li><button onclick="window.location.href='index.html'">Home page</button></li>
+                <li><button onclick="window.location.href='webforms.html'">Web-forms HTML5</button></li>
+                <li><button onclick="window.location.href='player.html'">Audio and video</button></li>
+                <li><button onclick="window.location.href='interactive_features.html'">Drag and Drop</button></li>
+                <li><button onclick="window.location.href='canvas.html'">Canvas</button></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h3>Немного графики от JS с помощью Canvas API</h3>
+            <p>Демонстрируем лучшие возможности Web-разработки для наших клиентов!</p>
+            <canvas id="myCanvas" width="400" height="200" style="border:1px solid #000000;"></canvas>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 03.04.2025 Буркин А.В.</p>
+    </footer>
+    <script>
+        // Canvas API
+        const canvas = document.getElementById('myCanvas');
+        const ctx = canvas.getContext('2d');
+        ctx.fillStyle = "#2C4521";
+        ctx.fillRect(20, 20, 150, 100);
+		
+		  // Текст
+        ctx.fillStyle = "#FFFFFF";
+        ctx.font = "20px Arial";
+        ctx.fillText("Нажми меня", 30, 70);
+		
+		// Стрелка
+        ctx.beginPath();
+        ctx.moveTo(240, 70); // Начало стрелки
+        ctx.lineTo(180, 70); // Конец стрелки
+        ctx.lineTo(190, 65); // Правая часть стрелки
+        ctx.moveTo(180, 70);
+        ctx.lineTo(190, 75); // Левая часть стрелки
+        ctx.strokeStyle = "#DC0909"; // 
+        ctx.lineWidth = 2; // Толщина стрелки
+        ctx.stroke();
+		
+        // Обработчик события на canvas
+        canvas.addEventListener('click', function() {
+            window.location.href = 'canvas.html';
+        });		
+    </script>
+</body>
+</html>

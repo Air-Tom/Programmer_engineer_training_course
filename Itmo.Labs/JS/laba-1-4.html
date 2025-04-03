@@ -1,0 +1,18 @@
+Упр. 1.4
+
+class NewClass {
+		constructor(title, url) {
+			this.title = title;
+			this.url = url;
+		}
+
+		show() {
+			document.write(`<h2>${this.title}</h2>`);
+			document.write(`<p>Ссылка: <a href="${this.url}" target="_blank">${this.url}</a></p>`);
+		}
+	}
+
+	window.onload = function() {
+		const myObject = new NewClass("Заголовок и ссылка от NewClass", "https://jsfiddle.net/");
+		myObject.show();
+	}
