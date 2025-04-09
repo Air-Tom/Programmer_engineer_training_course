@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Форма с элементами управления HTML5</title>
+</head>
+<body>
+	<header>
+        <h1>Элементы управления Web-форм HTML5</h1>
+        <nav>
+            <ul>
+                <li><button onclick="window.location.href='index.html'">Home page</button></li>
+                <li><button onclick="window.location.href='webforms.html'">Web-forms HTML5</button></li>
+                <li><button onclick="window.location.href='player.html'">Audio and video</button></li>
+                <li><button onclick="window.location.href='interactive_features.html'">Drag and Drop</button></li>
+                <li><button onclick="window.location.href='canvas.html'">Canvas</button></li>
+            </ul>
+        </nav>
+    </header>
+	<h1>Контактная форма</h1>
+    <form action="/submit" method="post">
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required><br><br>
+
+        <label for="date">Выберите дату:</label>
+        <input type="date" id="date" name="date" required><br><br>
+
+        <label for="volume">Громкость:</label>
+        <input type="range" id="volume" name="volume" min="0" max="100" value="50"><br><br>
+
+        <label for="color">Выберите цвет:</label>
+        <input type="color" id="color" name="color" value="#ff0000"><br><br>
+
+        <label for="message">Сообщение:</label>
+        <textarea id="message" name="message" rows="4" cols="50" required></textarea><br><br>
+
+        <input type="submit" value="Отправить">
+    </form>
+</body>
+</html>
