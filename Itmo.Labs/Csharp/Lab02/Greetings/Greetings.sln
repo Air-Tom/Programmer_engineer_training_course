@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greetings", "Greetings.csproj", "{DE931655-E35F-4B37-8F4E-1E23AD6E32D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Divider", "..\Divider\Divider.csproj", "{AC52DE39-03BE-4F0D-9E71-1ABAB9B1D6F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaTriangle", "..\AreaTriangle\AreaTriangle.csproj", "{CFB7368E-FA62-4DD6-B2A5-E59E534DAE64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE931655-E35F-4B37-8F4E-1E23AD6E32D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE931655-E35F-4B37-8F4E-1E23AD6E32D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE931655-E35F-4B37-8F4E-1E23AD6E32D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE931655-E35F-4B37-8F4E-1E23AD6E32D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC52DE39-03BE-4F0D-9E71-1ABAB9B1D6F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC52DE39-03BE-4F0D-9E71-1ABAB9B1D6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC52DE39-03BE-4F0D-9E71-1ABAB9B1D6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC52DE39-03BE-4F0D-9E71-1ABAB9B1D6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB7368E-FA62-4DD6-B2A5-E59E534DAE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB7368E-FA62-4DD6-B2A5-E59E534DAE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB7368E-FA62-4DD6-B2A5-E59E534DAE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB7368E-FA62-4DD6-B2A5-E59E534DAE64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {303990B9-C5B4-4709-A730-F8D500A92D43}
+	EndGlobalSection
+EndGlobal
